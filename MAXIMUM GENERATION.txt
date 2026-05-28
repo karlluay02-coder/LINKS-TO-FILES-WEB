@@ -1,0 +1,80 @@
+================================================================================
+          AI IMAGE PROMPT ENGINE v6.0 — MAXIMUM QUALITY PROTOCOLS
+================================================================================
+[PURPOSE]: This document establishes strict syntactic rules and tokens to bypass
+default AI smoothing and force maximum realism, architectural fidelity, and detail.
+
+--------------------------------------------------------------------------------
+1. THE ANATOMY OF A PERFECT PROMPT (ORDER OF IMPORTANCE)
+--------------------------------------------------------------------------------
+Prompts must be built sequentially from left to right. Early tokens carry the 
+most mathematical weight in the generation process.
+
+[Tokens 1-3]  --> CORE SUBJECT: Age, explicit attire, material texture, action.
+[Tokens 4-5]  --> ENVIRONMENT: Micro-details of the scene, weather, depth layers.
+[Tokens 6-7]  --> LIGHTING: Light source, angle, temperature, shadow behavior.
+[Tokens 8-9]  --> CAMERA & LENS: Focal length, f-stop, camera type, film stock.
+[Tokens 10+]  --> ENGINE CODE: Stylistic directives, rendering parameters.
+
+--------------------------------------------------------------------------------
+2. THE ANTI-FLUFF PROTOCOL (BANNED WORDS vs. REPLACEMENTS)
+--------------------------------------------------------------------------------
+Banned buzzwords dilute token strength and result in generic, artificial textures.
+Replace subjective quality words with technical, industrial definitions.
+
+❌ DO NOT USE: "Photorealistic", "Hyperrealistic", "4K", "8K", "Stunning", "Beautiful"
+     ↳ Reason: These words trigger generic "stock photo" training models.
+
+The Quality Hierarchy Matrix:
+┌───────────────────────────────┬──────────────────────────────────────────────┐
+│ To control this element...     │ Use these precise technical tokens instead...│
+├───────────────────────────────┼──────────────────────────────────────────────┤
+│ Skin & Material Detail        │ "Pores visible, fine downy hair, skin grit"  │
+│ Textile Precision             │ "Coarse linen weave, 14oz raw denim texture" │
+│ Depth of Field & Focus        │ "Shot on 85mm lens, f/1.4 depth, sharp focus"│
+│ Industrial Realism            │ "Shot on Hasselblad H6D-100c, medium format" │
+│ Film Texture                  │ "Subtle Kodak Portra 400 grain, authentic"   │
+└───────────────────────────────┴──────────────────────────────────────────────┘
+
+--------------------------------------------------------------------------------
+3. ATMOSPHERIC & LIGHTING COMMAND CODES
+--------------------------------------------------------------------------------
+Lighting determines the structural integrity of shadows. Never just say "light."
+Inject these specific lighting codes to enforce depth:
+
+• "Volumetric Chiaroscuro Lighting" — Forces extreme contrast between dark/light.
+• "Rim Lighting, 45-degree Key Light" — Separates the subject from the background.
+• "Dappled Sunlight through Foliage" — Creates organic, complex shadow maps.
+• "Neon Ambient Spill with Volumetric Fog" — Perfect for cinematic/cyberpunk depth.
+• "Golden Hour, Soft Diffused Directional Light" — Gives smooth, natural skin tones.
+
+--------------------------------------------------------------------------------
+4. ENGINE-SPECIFIC SYNTAX SHORTCUTS
+--------------------------------------------------------------------------------
+Tailor the tail-end of your text file based on the engine you are running:
+
+■ MIDJOURNEY v6 PARADIGM:
+  Always append `--style raw` to disable Midjourney's default "beautification" 
+  and force it to stick to your exact literal words. Set aspect ratios using `--ar`.
+  Example Template: [Subject], [Environment], [Camera], [Lighting] --style raw --ar 16:9
+
+■ STABLE DIFFUSION (SDXL) PARADIGM:
+  Use explicit weights `(token:1.2)` to emphasize physical textures over concepts.
+  Example: "Close-up shot of an elder man, (intricate skin pores:1.3), raytracing."
+
+■ DALL-E 3 PARADIGM:
+  DALL-E 3 requires descriptive paragraphs rather than fragmented phrases.
+  Example: "A candid medium-format photograph of... The lighting is a sharp rim 
+  light coming from behind. Captured on a 35mm camera, showing realistic grain."
+
+--------------------------------------------------------------------------------
+5. THE MASTER PROMPT GENERATOR TEMPLATE
+--------------------------------------------------------------------------------
+Copy and fill in this blueprint to generate maximum-quality results:
+
+"A close-up cinematic photograph of [SUBJECT] wearing [MATERIAL/CLOTHING], 
+[ACTION/EMOTION]. Set in a highly detailed [ENVIRONMENT], featuring [MICRO-DETAILS]. 
+Illuminated by [SPECIFIC LIGHTING TYPE], creating deep shadows and highlights. 
+Shot on a [CAMERA MODEL] with a [LENS MM] lens, f/[LOW F-STOP], crisp focus on 
+[PART OF SUBJECT], [FILM STOCK/GRAIN DIRECTIVE]."
+================================================================================
