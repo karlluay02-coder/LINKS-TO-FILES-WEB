@@ -1,0 +1,86 @@
+================================================================================
+          AI MOTION & VIDEO PROMPT ENGINE — MAXIMUM FIDELITY PROTOCOLS
+================================================================================
+[PURPOSE]: This document establishes strict kinematic and volumetric rules to
+override default static AI generation and force hyper-fluid, physics-compliant, 
+and highly cinematic video movement.
+
+--------------------------------------------------------------------------------
+1. THE KINEMATIC ANATOMY DECONSTRUCTION (LEFT-TO-RIGHT WEIGHT)
+--------------------------------------------------------------------------------
+Video AI models interpret motion sequentially. To prevent the model from creating 
+a static image with minor twitching, structural movement must be dictated first.
+
+[Tokens 1-2]  --> CORE MOTION COMMAND: Camera trajectory + dynamic speed.
+[Tokens 3-4]  --> PRIMARY SUBJECT ACTION: Micro-movements, physical reactions.
+[Tokens 5-6]  --> SECONDARY/ENVIRONMENTAL MOTION: Physics-driven background particles.
+[Tokens 7-8]  --> LIGHTING TRANSITIONS: Changing light angles, dynamic shadows.
+[Tokens 9+]   --> TECHNICAL PARAMETERS: Frame rate descriptors, temporal weight tags.
+
+--------------------------------------------------------------------------------
+2. THE MOTION EXPANSION PROTOCOL (BANNED STATIC TAGS vs. MOTION DIRECTIVES)
+--------------------------------------------------------------------------------
+Generic action verbs cause AI video models to stutter or loop unnaturally. 
+Replace static ambient descriptions with physics-explicit descriptors.
+
+❌ BANNED PHRASES: "Walking around", "Looking cinematic", "Explosion", "Moving fast"
+     ↳ Reason: These prompt clipping, multi-limb artifacts, or instant pixel melting.
+
+The Kinematic Velocity Matrix:
+┌───────────────────────────────┬──────────────────────────────────────────────┐
+│ To control this element...     │ Use these precise technical tokens instead...│
+├───────────────────────────────┼──────────────────────────────────────────────┤
+│ Camera Trajectory             │ "Dynamic continuous tracking shot, crane up" │
+│ Micro-Expression Fluidity     │ "Subtle ocular shift, realistic muscle flex" │
+│ Physics & Fluid Simulation    │ "Aerodynamic fluid turbulence, weight splash"│
+│ Spatial Interruption          │ "Debris slicing cleanly through foreground"  │
+│ Temporal Speed Control        │ "Speed ramp transition, 120fps physics scale"│
+└───────────────────────────────┴──────────────────────────────────────────────┘
+
+--------------------------------------------------------------------------------
+3. ADVANCED CAMERA DIRECTION & MOVEMENT CODEX
+--------------------------------------------------------------------------------
+Force the AI to maintain spatial coherence by establishing complex camera paths:
+
+• "Hypnotic Vertigo Effect" — Simultaneous push-forward and optical zoom-out.
+• "Low-Angle Orbiting Gimbal Shot" — Keeps a full 360-degree lock on subject anatomy.
+• "Visceral Handheld Shaky-Cam Tracking" — Forces authentic camera jitter and realism.
+• "Seamless Drone Fly-Through" — Perfect for passing through obstacles smoothly.
+• "High-Speed Macro Whip-Pan" — Instant horizontal blur transitioning scenes cleanly.
+
+--------------------------------------------------------------------------------
+4. ENVIRONMENTAL INTERACTION & ELEMENTAL PHYSICS
+--------------------------------------------------------------------------------
+The secret to high-end AI video is background motion density. Never let the background 
+stay still. Inject these environmental motion hooks:
+
+• Smoke & Fog: "Swirling dense volumetric fog interacting with character movement."
+• Lighting Shifts: "Dynamic strobe sweeps casting shifting raytraced shadows across surfaces."
+• Debris & Liquid: "Suspended dust motes reflecting anamorphic lens flare artifacts."
+• Fabric Behavior: "Heavy textile wind resistance displaying hyper-accurate drag physics."
+
+--------------------------------------------------------------------------------
+5. PLATFORM PARAMETER INJECTIONS (Runway Gen-3 / Luma / Pika)
+--------------------------------------------------------------------------------
+Adjust the tail-end syntax based on your video generation engine:
+
+■ RUNWAY GEN-3 / LUMA DREAM MACHINE:
+  Structure prompts as a continuous cinematic description focusing heavily on the 
+  first frame transition. Use phrases like "seamless continuous single-take."
+  
+■ PIKA LABS / STABLE VIDEO DIFFUSION:
+  Utilize explicit direction tokens. 
+  Append: `-motion 5` or `-camera zoom in` to force engine-level overrides.
+
+--------------------------------------------------------------------------------
+6. THE MASTER MOTION BLUEPRINT TEMPLATE
+--------------------------------------------------------------------------------
+Copy, fill in, and paste this master script block to lock in maximum motion fidelity:
+
+"[CAMERA MOTION COMMAND] tracking [SUBJECT]. The camera moves seamlessly through 
+[ENVIRONMENT DETAILS], capturing [PRIMARY ACTION OF SUBJECT]. Noticeable [MICRO-ACTION/EXPLOSIVE MOTION DETAIL] occurs with realistic weight and physics. 
+In the background, [SECONDARY ENVIRONMENTAL MOTION] occurs continuously. 
+Shifting [LIGHTING DIRECTION] casts dynamic, evolving shadows across all textures. 
+Shot on 35mm cinematic film stock, fluid cinematic motion, continuous take, 
+zero morphing artifacts."
+================================================================================
